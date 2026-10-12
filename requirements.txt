@@ -5,3 +5,13 @@ matplotlib
 seaborn
 jupyter
 ipykernel
+trackio
+torch
+transformers
+datasets
+sentence-transformers
+gensim
+scipy
+conllu
+natasha
+tqdm
